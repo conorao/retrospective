@@ -12,6 +12,8 @@ You will need the following things properly installed on your computer.
 * [Bower](http://bower.io/)
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
+* [EmberFire](https://github.com/firebase/emberfire) (use installation instructions for ember-cli)
+
 
 ## Installation
 
@@ -19,6 +21,7 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+* `ember s`
 
 ## Running / Development
 
