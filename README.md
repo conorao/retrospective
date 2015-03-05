@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/conorao/retrospective.png?label=ready&title=Ready)](https://waffle.io/conorao/retrospective)
 # Retrospective
 
 This README outlines the details of collaborating on this Ember application.
